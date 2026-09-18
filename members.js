@@ -33,5 +33,4 @@ const MEMBERS = [
   { name: "Moh. Nofario I. L", img: "sf.jpg" },
   { name: "Ripto Y Beleka", img: "sif.jpg" },
   { name: "Mario Mokope", img: "oof.jpg" },
-  
 ];
