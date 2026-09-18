@@ -28,4 +28,10 @@ const MEMBERS = [
   { name: "Wiwin Saong", img: "wiwin_saong.jpg" },
   { name: "Yolanda Pasondek", img: "yolanda_pasondek.jpg" },
   { name: "Reno Baideng", img: "yuni_meaa.jpg" },
+  { name: "Anggun prawista muaba", img: "ss.jpg" },
+  { name: "Irene Jessica Sotomani", img: "dd.jpg" },
+  { name: "Moh. Nofario I. L", img: "sf.jpg" },
+  { name: "Ripto Y Beleka", img: "sif.jpg" },
+  { name: "Mario Mokope", img: "oof.jpg" },
+  
 ];
